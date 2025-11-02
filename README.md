@@ -4,7 +4,7 @@
 ![Completed vs Uncompleted View](Price%20offer2.PNG)
 
 ## 🎥 Project Video
-[▶️ Watch Project Demo](price%20offer.mp4)
+[▶️ Watch Project Demo](price%20offer1.mp4)
 
 ---
 
