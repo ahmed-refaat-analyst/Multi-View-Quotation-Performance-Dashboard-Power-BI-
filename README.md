@@ -3,8 +3,8 @@
 ![Main Dashboard](price%20offer3.PNG)
 ![Completed vs Uncompleted View](Price%20offer2.PNG)
 
-## 🎥 Project Demo
-[▶️ Watch / Download Video](price%20offer.mp4)
+## 🎥 Project Video
+[▶️ Watch Project Demo](price%20offer.mp4)
 
 ---
 
